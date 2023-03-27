@@ -1,1 +1,3 @@
-# CS463-FinalProject
+# Musical-Recommender-System
+## CS463 - Final Project
+
